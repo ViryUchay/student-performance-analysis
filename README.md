@@ -8,7 +8,7 @@ The software I created is a Student Performance Data Analysis Tool written in Py
 My purpose for creating this software was to learn how to build a complete data analysis pipeline from end to end — from raw data to interactive visualization. Rather than only running isolated pandas commands, I wanted to design a structured, modular program that mirrors how a professional data analyst or data engineer would approach a real dataset. This includes generating a realistic dataset, cleaning it programmatically, computing grouped aggregates and correlations, producing publication-quality charts, writing a summary report for non-technical audiences, and building an interactive dashboard that lets users explore the data themselves through filters and live-updating visualizations. Through this project, I aimed to deepen my understanding of data wrangling, exploratory analysis, data visualization, and dashboard design, while also improving my ability to write clean, well-documented Python code.
 
 ## Software Demo Video
-
+https://youtu.be/6Gd6ufcAqYc 
 
 ## Development Environment
 The following tools were used to develop this software:
